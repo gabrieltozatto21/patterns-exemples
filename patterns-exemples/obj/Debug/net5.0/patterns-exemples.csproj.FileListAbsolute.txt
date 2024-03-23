@@ -1,0 +1,16 @@
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\bin\Debug\net5.0\patterns-exemples.exe
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\bin\Debug\net5.0\patterns-exemples.deps.json
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\bin\Debug\net5.0\patterns-exemples.runtimeconfig.json
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\bin\Debug\net5.0\patterns-exemples.runtimeconfig.dev.json
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\bin\Debug\net5.0\patterns-exemples.dll
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\bin\Debug\net5.0\ref\patterns-exemples.dll
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\bin\Debug\net5.0\patterns-exemples.pdb
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\obj\Debug\net5.0\patterns-exemples.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\obj\Debug\net5.0\patterns-exemples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\obj\Debug\net5.0\patterns-exemples.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\obj\Debug\net5.0\patterns-exemples.AssemblyInfo.cs
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\obj\Debug\net5.0\patterns-exemples.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\obj\Debug\net5.0\patterns-exemples.dll
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\obj\Debug\net5.0\ref\patterns-exemples.dll
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\obj\Debug\net5.0\patterns-exemples.pdb
+C:\Users\gabri\Documents\Documentos\repositorios\patterns-exemples\patterns-exemples\obj\Debug\net5.0\patterns-exemples.genruntimeconfig.cache
